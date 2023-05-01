@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/starwars_task/static/css/main.f5b8a912.css",
+    "main.js": "/starwars_task/static/js/main.e18bc708.js",
+    "static/media/logo.svg": "/starwars_task/static/media/logo.c1b3c179c4f957fed20b0effca7edbca.svg",
+    "index.html": "/starwars_task/index.html",
+    "main.f5b8a912.css.map": "/starwars_task/static/css/main.f5b8a912.css.map",
+    "main.e18bc708.js.map": "/starwars_task/static/js/main.e18bc708.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5b8a912.css",
+    "static/js/main.e18bc708.js"
+  ]
+}
