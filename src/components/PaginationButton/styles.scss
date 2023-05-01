@@ -1,0 +1,24 @@
+@import "../../styles/colors.scss";
+.pagination-button {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 4px;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  svg {
+    text-align: center;
+  }
+  &.active {
+    background-color: $primaryMain;
+    box-shadow: rgb(0 113 249) 0px 0px 16px 4px;
+    border-radius: 50%;
+    font-weight: bold;
+  }
+  &:disabled {
+    background-color: $primaryMain;
+    cursor: not-allowed;
+  }
+}

@@ -1,0 +1,9 @@
+@import "../../styles/colors.scss";
+.select-button {
+  background: transparent;
+  color: white;
+  border: none;
+  &.selected {
+    border-bottom: 2px solid $primaryMain;
+  }
+}

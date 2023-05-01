@@ -1,0 +1,8 @@
+div.pageContainer {
+  padding: 2rem;
+  width: 1200px;
+  margin: 0 auto;
+  @media screen and (max-width: 480px) {
+    width: 100%;
+  }
+}
