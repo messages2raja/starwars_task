@@ -11,7 +11,7 @@ ReactDOM.render(
   <React.StrictMode>
     <Provider store={store}>
       <GlobalStyles />
-      <BrowserRouter basename="/">
+      <BrowserRouter basename="https://messages2raja.github.io/starwars_task">
         <App />
       </BrowserRouter>
     </Provider>
